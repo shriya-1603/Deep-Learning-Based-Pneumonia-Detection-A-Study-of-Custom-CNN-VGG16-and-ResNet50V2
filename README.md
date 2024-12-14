@@ -81,8 +81,3 @@ Provide any insights from your training here, such as:
 ## Acknowledgements
 Thanks to Paul Mooney for providing the dataset and to the open-source community for pre-trained models and tools.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-Feel free to raise issues or contribute by creating pull requests!
